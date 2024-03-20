@@ -12,7 +12,7 @@ function App() {
   useEffect(() => {
     const fetchTransactions = async () => {
       try {
-        const response = await fetch('http://localhost:8001/transactions');
+        const response = await fetch('https://flatiron-bank-alex-njoroge.onrender.com/transactions');
         if (!response.ok) throw new Error('Failed to fetch');
         const data = await response.json();
         setTransactions(data);
