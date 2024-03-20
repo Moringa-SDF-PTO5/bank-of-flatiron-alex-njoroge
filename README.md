@@ -1,6 +1,8 @@
 # bank-of-flatiron-alex-njoroge
 Bank of Flatiron - Recent Transactions Web App
+
 Overview
+
 Bank of Flatiron is a React application designed to display a list of recent bank transactions and provide functionality to add new transactions and filter transactions based on description. This README file provides information on how to set up the application and use its core features.
 
 Setup
