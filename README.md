@@ -13,7 +13,7 @@ To set up the Bank of Flatiron application, follow these steps:
 2. Ensure you have Node.js and npm (Node Package Manager) installed on your machine.
 3. Install json-server globally on your machine by running npm install -g json-server.
 4. Start the backend server by running json-server --watch db.json.
-5. To view in browser follow this deployment link: https://bank-of-flatiron-alex-njoroge.vercel.app/
+5. To view in browser follow this deployment link: https://bank-of-flatiron-alex-njoroge-new-update.vercel.app/
 
 Core Features
 
